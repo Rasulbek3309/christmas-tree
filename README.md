@@ -13,9 +13,3 @@ Bu loyiha Yangi Yil munosabati bilan yaratilgan interaktiv yangi yil archasidir.
 - 🎁 Yangi yil ruhi va bayramona muhit
 - 📱 Turli qurilmalarga moslashuvchan dizayn
 - ⚡ Optimallashtirilgan kod tuzilishi
-
-## 🚀 O'rnatish
-
-1. Repozitoriyani klon qiling:
-```bash
-git clone https://github.com/sizning-foydalanuvchi/repozitoriy-nomi.git

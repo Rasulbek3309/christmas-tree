@@ -1,8 +1,16 @@
-🎄 Rojdestvo daraxti
+🎄 Yangi Yil Archasi
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndjaTRhdGVueDBoZTR3NzB4cXF2ZWxpc3lidWFuaHl5bmZ5YXNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BDucPOizdZ5AI/giphy.gif
 
-(Agar rasm ochilmasa, ushbu to'liq GIPHY linkini ham joyladim — brauzerda ochib berildi:)
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndjaTRhdGVueDBoZTR3NzB4cXF2ZWxpc3lidWFuaHlucmZ5YXNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BDucPOizdZ5AI/giphy.gif
+📝 Tavsif
+Bu loyiha Yangi Yil munosabati bilan yaratilgan interaktiv yangi yil archasidir. HTML, CSS va JavaScript texnologiyalari yordamida ishlab chiqilgan.
 
-🌟 Loyihaning Tavsifi
+✨ Xususiyatlar
+🎅 Interaktiv yangi yil archasi
 
-Uch repozitoriya — Yangi yil ruhidagi Christmas Tree animatsiyasi yoki ASCII daraxtini yozish uchun kodlar to'plami. Loyihada web (HTML/CSS/JS) va/yo Python (konsol) variantlari bo'lishi mumkin. README'ni to'g'ri joylashtirsangiz GIF GitHub sahifada avtomatik ko'rinadi.
+🌟 Yorqin ranglar va animatsiyalar
+
+🎁 Yangi yil ruhi va bayramona muhit
+
+📱 Turli qurilmalarga moslashuvchan dizayn
+
+⚡ Optimallashtirilgan kod tuzilishi

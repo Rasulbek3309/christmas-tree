@@ -1,16 +1,21 @@
-🎄 Yangi Yil Archasi
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndjaTRhdGVueDBoZTR3NzB4cXF2ZWxpc3lidWFuaHl5bmZ5YXNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BDucPOizdZ5AI/giphy.gif
+# 🎄 Yangi Yil Archasi
 
-📝 Tavsif
+![Yangi Yil GIF](https://media.giphy.com/media/BDucPOizdZ5AI/giphy.gif)
+
+## 📝 Tavsif
+
 Bu loyiha Yangi Yil munosabati bilan yaratilgan interaktiv yangi yil archasidir. HTML, CSS va JavaScript texnologiyalari yordamida ishlab chiqilgan.
 
-✨ Xususiyatlar
-🎅 Interaktiv yangi yil archasi
+## ✨ Xususiyatlar
 
-🌟 Yorqin ranglar va animatsiyalar
+- 🎅 Interaktiv yangi yil archasi
+- 🌟 Yorqin ranglar va animatsiyalar
+- 🎁 Yangi yil ruhi va bayramona muhit
+- 📱 Turli qurilmalarga moslashuvchan dizayn
+- ⚡ Optimallashtirilgan kod tuzilishi
 
-🎁 Yangi yil ruhi va bayramona muhit
+## 🚀 O'rnatish
 
-📱 Turli qurilmalarga moslashuvchan dizayn
-
-⚡ Optimallashtirilgan kod tuzilishi
+1. Repozitoriyani klon qiling:
+```bash
+git clone https://github.com/sizning-foydalanuvchi/repozitoriy-nomi.git
